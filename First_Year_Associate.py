@@ -225,25 +225,41 @@ while True:
             if function_name == "search_case_documents":
                 search_term = function_arguments["search_term"]
                 output = ""
-                files = glob.glob(os.path.join("input", "**", "*.txt"), recursive=True)
-                files += glob.glob(os.path.join("input", "**", "*.pdf"), recursive=True)
+
+                files = glob.glob(
+                    os.path.join("input", "**", "*.txt"),
+                    recursive=True
+                )
+                files += glob.glob(
+                    os.path.join("input", "**", "*.pdf"),
+                    recursive=True
+                )
 
                 for path in files:
-                    if path.lower().endswith(".pdf"):
-                        reader = PdfReader(path)
-                        content = "\n".join(
-                            page.extract_text() or ""
-                            for page in reader.pages
-                        )
-                    else:
-                        with open(path, "r", encoding="utf-8") as file:
-                            content = file.read()
-                    if search_term.lower() in content.lower():
-                        output += f"Found '{search_term}' in {path}\n"
-                if output =="":
+                    try:
+                        if path.lower().endswith(".pdf"):
+                            reader = PdfReader(path)
+                            content = "\n".join(
+                                page.extract_text() or ""
+                                for page in reader.pages
+                            )
+                        else:
+                            with open(path, "r", encoding="utf-8") as file:
+                                content = file.read()
+
+                        if search_term.lower() in content.lower():
+                            output += f"\nMatching document: {path}\n"
+
+                    except Exception as e:
+                        print(f"DEBUG: Error reading {path}: {e}")
+
+                if output == "":
                     output = f"No matches found for '{search_term}'."
+
                 output = f"Search results for '{search_term}':\n{output}"
 
+                print("DEBUG: Finished searching documents.")
+             
             tool_message = {
                 "role": "tool",
                 "content": f"The output of tool {function_name} is: {output}"
