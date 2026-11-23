@@ -149,6 +149,18 @@ while True:
             Distinguish established facts from allegations and
             potential legal conclusions.
             Never invent facts or evidence.
+            When working with case documents:
+                1. Always use search_case_documents to identify relevant documents.
+                2. Only use exact file paths returned by search_case_documents
+                or list_files.
+                3. Never invent, modify, or guess a file path.
+                4. Use read_file to retrieve the actual contents of relevant documents.
+                5. When reviewing PDFs, use the read_file tool just as you
+                would for TXT files.
+                6. If a document cannot be located, explain that rather than
+                inventing its contents.
+                7. Review multiple relevant documents when necessary to
+                answer the user's question.
             """
         },
         {
@@ -180,16 +192,21 @@ while True:
 
             if function_name == "read_file":
                 path = function_arguments["path"]
-                if path.lower().endswith(".pdf"):
+
+                if not os.path.isfile(path):
+                    output = f"Error: File not found at {path}. Use search_case_documents or list_files to find the correct file path."
+
+                elif path.lower().endswith(".pdf"):
                     reader = PdfReader(path)
                     file_content = "\n".join(
                         page.extract_text() or ""
                         for page in reader.pages
                     )
+                    output = file_content
+
                 else:
-                    with open(path, "r") as file:
-                        file_content = file.read()
-                output = file_content
+                    with open(path, "r", encoding="utf-8") as file:
+                        output = file.read()
 
             if function_name == "write_files":
                 path = function_arguments["path"]
