@@ -258,7 +258,7 @@ while True:
 
                 output = f"Search results for '{search_term}':\n{output}"
 
-                print("DEBUG: Finished searching documents.")
+                print("Finished searching documents.")
              
             tool_message = {
                 "role": "tool",
