@@ -1,5 +1,9 @@
 # FinalProject
 
+Abigail Clarke
+
 For my final project I created an agent who mimics a "First-Year Associate" at a big law firm. Next year I will be working in antitrust which made creating this case and legal agent very fun and interesting. I was able to use the base code we used in class and googled how to write code so Github could read PDF and work out of the terminal instead of the code itself which was fun to dive deeper into the code and better understand the blocks and how they interact. Building off what we learned in class I ran into a lot of errors but with a lot of moving things around, trial and error, and googling what an error means I ended up with a working First-Year Associate. I have asked it a lot of questions like summarizing a certain case, flagging important information in the discovery or depositions, creating a memo, and so much more.
+
+Some of the tests I ran was asking the AI who Apex Technologies is, who the companies competitors are and their role in the litigation, to evaluate the complaint, summarize case law, which cases were most on point, which statute does this case fall under, evaluate the arguments/depositions/case law and write a memo to send to a partner, evaluate the depositions and explain what might cause red flags, and more. 
 
 This class was challenging and new but in the end I am proud that I was able to develop a working AI model. I took this class because my dad and brother are both engineers and I wanted to try something new and be able to talk to them about Python at Thanksgiving. I can confidently show them and explain my model this break and I know they will both be very impressed!

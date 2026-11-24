@@ -1,0 +1,51 @@
+*** MEMORANDUM ***
+
+To: Partner
+From: Junior Associate
+Date: November 24, 2026
+Re: Antitrust Issues – United States v. Apex Technologies, Inc.
+
+**I. Overview**
+Apex Technologies is alleged to have engaged in anticompetitive conduct under §1 (horizontal restraints) and §2 (monopolization) of the Sherman Act.  The key factual contentions involve (1) alleged exclusive‑dealing arrangements with distributors that limit first‑run film access to Apex’s competitors, (2) possible territorial or market‑allocation agreements, and (3) licensing practices that resemble a blanket‑license scheme.
+
+**II. Case Law Framework**
+Below is a concise table of the most directly applicable Supreme Court and Circuit precedent contained in the case‑law folder, indicating whether each case provides a rule *beneficial* to Apex, a rule *harmful* to Apex, or is *neutral / not helpful* for the present issues.
+
+| Case | Holding / Rule | Relevance to Apex | Effect on Apex’s Position |
+|------|----------------|-------------------|----------------------------|
+| **Theatre Enterprises, Inc. v. Paramount Film Distributing Corp., 345 U.S. 963 (1953)** | *Conscious parallelism* is not per se evidence of a conspiracy; independent business judgment may explain parallel behavior. | Apex argues that its distributors’ refusal to grant first‑run films is a legitimate business decision, not a collusive agreement. | **Beneficial** – supports a *rule‑of‑reason* analysis and opposes a directed verdict on conspiracy.
+| **United States v. Topco Associates, Inc., 405 U.S. 596 (1972)** | Horizontal territorial allocations are per se illegal. | If Apex has any formal market‑division with competitors, this case is fatal. | **Harmful** – any explicit territory split would be condemned per se.
+| **Addyston Pipe & Steel Co. v. United States, 175 U.S. 211 (1899)** | Horizontal price‑fixing agreements are per se violations. | Apex’s alleged agreement to fix minimum fees for distributors would fall here. | **Harmful** – establishes per se price‑fixing rule.
+| **Palmer v. BRG of Georgia, Inc., 874 F.2d 1417 (11th Cir. 1989)** (affirmed Supreme Court) | Geographic market allocation + revenue‑sharing that raises prices is per se illegal. | Mirrors any arrangement where Apex trades exclusive rights for a share of revenue. | **Harmful** – reinforces per se illegality of market‑allocation with price impact.
+| **National Society of Professional Engineers v. United States, 435 U.S. 679 (1978)** | A blanket ban on competitive bidding is a per se violation of §1; the Rule of Reason does not excuse a total prohibition on price competition. | Apex’s licensing provisions that forbid independent negotiation of fees resemble a blanket‑license ban. | **Harmful** – per se ban on bidding/discussion of prices.
+| **Broadcast Music, Inc. v. CBS, 562 F.2d 130 (2d Cir. 1977) (reversed)** | Blanket‑license pricing is *not* per se illegal; it must be evaluated under the Rule of Reason. | Apex may argue that its licensing scheme is analogous to ASCAP’s blanket license and thus subject to a rule‑of‑reason analysis. | **Beneficial** – provides a *rule‑of‑reason* approach for blanket‑license arrangements.
+| **United States v. Socony‑Vacuum Oil Co., 310 U.S. 150 (1940)** | Agreement to stabilize or fix prices is per se illegal, even without explicit price terms. | Any concerted effort by Apex and distributors to keep prices above competitive levels triggers this rule. | **Harmful** – broad per se prohibition on price‑stabilizing conduct.
+| **United States v. Monsanto Co., 410 U.S. 752 (1973)** | (Not fully reviewed in the file, but generally affirms per se price‑fixing where parties agree to set prices). | Same as Socony‑Vacuum for price‑fixing allegations. | **Harmful** – reinforces per se price‑fixing.
+| **National Collegiate Athletic Ass'n v. Board of Regents, 473 U.S. 364 (1985)** | (Brief) Addresses market allocation in the context of college athletics; per se illegal. | Illustrates that even non‑traditional markets are subject to per‑se territorial division rules. | **Harmful** – supports per‑se stance on market allocation.
+| **United States v. United States Gypsum Co., 438 U.S. 422 (1978)** (cited in Broadcast Music) | Per‑se price‑fixing must be “plainly anticompetitive” and lack redeeming virtues. | Provides a standard for when a practice is automatically illegal. | **Neutral** – clarifies criteria; may be invoked by either side.
+
+**III. Strategic Implications**
+1. **Conscious Parallelism vs. Conspiracy** – *Theatre Enterprises* gives Apex a strong argument that the distributors’ uniform policy could be the product of independent business judgment. Emphasize any factual divergences (e.g., differing market conditions, cost structures) to bolster the parallelism defense.
+2. **Territorial/Market Allocation** – The per‑se rules in *Topco*, *Palmer*, and *National Collegiate Athletic* leave little room for a rule‑of‑reason analysis. Apex must demonstrate that no formal agreement exists allocating markets or that any alleged allocation is merely a side‑effect of a lawful vertical arrangement.
+3. **Price‑Fixing** – *Addyston*, *Socony‑Vacuum*, and *Monsanto* create a bright‑line prohibition for any agreement that directly sets or stabilizes prices. Apex should avoid any language in contracts that obligates parties to maintain a “minimum fee” or share revenue in a way that influences price.
+4. **Blanket Licensing & Bidding Restrictions** – *Broadcast Music* and *National Society* pull in opposite directions. If Apex’s licensing scheme is akin to a blanket license with a single fee, *Broadcast Music* suggests a rule‑of‑reason analysis is appropriate. However, any clause that *prohibits* competitors from discussing fees (as in *NSPE*) is per se illegal. The distinction hinges on whether Apex merely offers a *single‑price package* (potentially permissible) versus *forbidding* any price discussion (impermissible).
+5. **Section 2 (Monopolization)** – No case file directly addresses Section 2, but the *Topco* and *Palmer* precedents on market power and exclusionary conduct can be analogized. Apex must show that any exclusive dealing does not foreclose competition or create a dominant share that enables a monopoly.
+
+**IV. Cases Not Helpful for Apex**
+- **United States v. United States Gypsum Co.** – Primarily a doctrinal discussion of per‑se price‑fixing; does not provide a factual framework applicable to Apex.
+- **United States v. Socony‑Vacuum Oil Co.** – While establishing per‑se price‑fixing, it offers no guidance on vertical or licensing issues that dominate the Apex case.
+- **United States v. Monsanto Co.** – Similar to Socony‑Vacuum; reinforces per‑se price‑fixing but does not address the nuanced licensing arrangement.
+- **National Collegiate Athletic Ass’n** – Focused on college sports; the factual context is far removed from technology licensing, making it of limited persuasive value.
+
+**V. Recommendations for Drafting Motions / Pleadings**
+1. **Move for Summary Judgment on Conspiracy** – Cite *Theatre Enterprises* and *Broadcast Music* to argue that the evidence is insufficient for a per‑se finding; request a Rule‑of‑Reason analysis.
+2. **Oppose Per‑Se Market‑Allocation Claims** – Emphasize lack of any written agreement allocating territories; distinguish factual market conditions from *Topco* and *Palmer*.
+3. **Address Potential Price‑Fixing Allegations** – Highlight any independent pricing decisions and absence of a price‑setting mechanism; rely on *Socony‑Vacuum*’s requirement of an agreement to fix prices.
+4. **Structure Licensing Provision Carefully** – Ensure the license is presented as a *single‑price package* without a prohibition on price discussion; include language allowing parties to negotiate separate terms to avoid *NSPE*‑type blanket bans.
+5. **Prepare Evidentiary Log** – Gather communications showing independent decision‑making, cost analyses, and any lack of coordinated meetings that would support a parallelism defense.
+
+**VI. Conclusion**
+The case law presents a mixed landscape. Supreme Court precedent on *conscious parallelism* and *rule‑of‑reason* licensing provides Apex with viable defenses, whereas the per‑se prohibitions on market allocation, price fixing, and blanket bidding bans pose serious risks. A focused strategy that isolates the *beneficial* precedents while carefully distancing Apex’s conduct from the *harmful* per‑se categories will be essential for a successful defense.
+
+---
+*Prepared by: Junior Associate*

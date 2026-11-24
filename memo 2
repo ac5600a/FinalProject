@@ -1,0 +1,64 @@
+MEMORANDUM
+To: Partner
+From: Junior Associate
+Date: November 24, 2026
+Re: Evaluation of Deposition Testimony – United States v. Apex Technologies, Inc.
+
+I. Overview
+The depositions of Robert Chen (Northstar), Michael Reeves (Meridian), and Daniel Mercer (Apex) were reviewed to identify evidentiary issues, inconsistencies, and potential credibility challenges for use in our antitrust analysis under §§1 and 2 of the Sherman Act.
+
+II. Key Issues per Deponent
+
+**A. Robert Chen – Chief Revenue Officer, Northstar Digital Solutions**
+- **Inconsistent statements on “selective” customer pursuit**
+  - Q: “Ms. Bennett wrote that companies would need to be more selective… Did you understand that to mean Apex would stop pursuing certain customers?”
+  - A: “No.”
+  - Yet later, Chen acknowledges “customers were receiving more competitive proposals from Apex and Meridian,” suggesting awareness of competitive dynamics that could imply tacit coordination.
+- **Limited recollection of internal pricing approvals**
+  - Claims internal finance/executive review for “significant pricing decisions,” but cannot recall discussing the review with Apex. Lack of specific detail may raise credibility concerns.
+- **Denial of any price‑coordination or customer‑allocation agreement**
+  - Repeated denials (“No”) align with the government’s theory, but the deposition provides no concrete evidence (e.g., emails) to substantiate the denial.
+
+**B. Michael Reeves – Vice President of Sales, Meridian Systems**
+- **Ambiguity around pricing discussions with Apex**
+  - Acknowledges May 2024 email exchange with Daniel Mercer discussing “margin pressure” but states no agreement to reduce discounts. The government may argue the discussion reflects “plus‑plus” awareness that facilitates coordinated conduct.
+- **Reliance on “general industry interactions”**
+  - Reeves states Meridian “monitor[s] the market generally” but admits lack of access to Apex’s internal pricing. This vague monitoring could be interpreted as informal information‑sharing.
+- **Unresolved factual basis for Sterling Financial**
+  - Reeves admits he would need to review account records to answer detailed questions about proposals, indicating incomplete knowledge under oath.
+- **Denial of any customer‑allocation agreement**
+  - Consistent denials, yet no documentary corroboration is offered.
+
+**C. Daniel Mercer – Vice President of Sales, Apex Technologies**
+- **Contradictory timeline for the Sterling Financial deal**
+  - Exhibit 3 confirms Apex signed the Sterling agreement on Aug. 1, 2024 (18% discount).
+  - Yet Exhibit 4 (Sept. 10, 2024 email) depicts Mercer stating Apex was “still evaluating whether to continue pursuing the Sterling opportunity,” despite the agreement already being executed. This inconsistency undermines credibility.
+- **Selective disclosure of competitor monitoring**
+  - Mercer admits monitoring Meridian and Northstar pricing but claims no intent to follow their pricing. The admission of “monitoring” may support a claim of “conscious parallelism,” a key antitrust issue.
+- **Authority over pricing**
+  - Mercer acknowledges limited authority to approve discounts; final decisions rest with CCO Laura Bennett. This raises a question of whether the deposition omits the role of senior management in potential coordination.
+- **Denial of any coordination**
+  - Consistent denials, but the combination of monitoring, email exchanges, and the Sterling discount could suggest implicit understanding.
+
+III. Common Themes & Potential Legal Implications
+1. **Evidence of “Conscious Parallelism”** – All three deponents acknowledge monitoring competitors and discussing market pressures, which may satisfy the knowledge‑and‑awareness element of a Section 1 claim.
+2. **Possible “Plus‑Plus” Exchanges** – The May 2024 email exchanges (both Chen‑Bennett and Mercer‑Reeves) involve discussing competitive conditions without explicit agreements, a classic plus‑plus scenario.
+3. **Credibility Gaps** – Inconsistent statements (e.g., Mercer’s post‑signing evaluation of Sterling; Chen’s ambiguous “selective” comment) provide avenues for cross‑examination to impeach testimony.
+4. **Lack of Documentary Corroboration** – Denials of agreements are unsupported by emails, meeting minutes, or contracts; the government can argue the absence of documentary evidence does not negate the existence of tacit agreements.
+5. **Section 2 Elements** – The 18% discount to Sterling may be scrutinized as predatory or exclusionary pricing if evidence shows it was intended to drive competitors out of the market.
+
+IV. Recommendations for Partner Review
+- **Targeted Cross‑Examination Points**
+  * Probe the timeline discrepancy in Mercer’s Sterling discussion.
+  * Question Chen’s understanding of “selective” language and whether it implied any “soft” allocation.
+  * Challenge Reeves’s “general monitoring” claim and request specifics on how market information was obtained.
+- **Document Production Requests**
+  * Request internal pricing committee minutes from Apex, Northstar, and Meridian for 2024‑2025.
+  * Seek emails between Apex’s CCO Laura Bennett and the other deponents around the May‑June 2024 period.
+  * Request accounting records related to the Sterling deal from Meridian to confirm any parallel discounting.
+- **Legal Analysis Focus**
+  * Assess whether the documented communications satisfy the “plus‑plus” standard for Section 1 liability.
+  * Evaluate the 18% discount under Section 2 for potential predatory intent, considering market share data (to be obtained).
+
+V. Conclusion
+The depositions contain several credibility inconsistencies and statements that support a theory of conscious parallelism and possible covert coordination among the three competitors. Targeted discovery and cross‑examination should focus on the identified gaps to strengthen our antitrust position.

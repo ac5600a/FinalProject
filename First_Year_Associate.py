@@ -251,7 +251,7 @@ while True:
                             output += f"\nMatching document: {path}\n"
 
                     except Exception as e:
-                        print(f"DEBUG: Error reading {path}: {e}")
+                        print(f"Loading: Error reading {path}: {e}")
 
                 if output == "":
                     output = f"No matches found for '{search_term}'."
